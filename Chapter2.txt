@@ -1,1 +1,2 @@
-Hello, I am learning Web Development using JavaScript and Frameworks.
+Hello, I am learning Web Development using JavaScript and Library.
+I am gonna switch to another company in 2 months.
